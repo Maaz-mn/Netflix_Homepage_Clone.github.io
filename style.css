@@ -1,0 +1,57 @@
+body{
+    background-color: black;
+    /* background-image: url(https://miro.medium.com/v2/resize:fit:828/format:webp/1*5lyavS59mazOFnb55Z6znQ.png); */
+    background-repeat: no-repeat;
+    background-size: cover;
+    }
+.title{
+    color: red;
+    font-size: 50px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-transform: uppercase;
+    position: relative;
+    left: 20px;
+}
+.sign_out{
+    background-color: red;
+    color: white;
+    cursor: pointer;
+    font-size: 15px;
+    position: relative;
+    left:90%;
+    bottom: 100px;
+    border-radius: 5px;
+    height: 40px;
+    width:100px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.p1{
+    color: white ;
+    font-size: 25px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+}
+h1{
+    color: white;
+    text-align: center;
+    font-size: 50px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.p2{
+    color: white ;
+    font-size: 25px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+}
+.sign_up{
+    background-color: red;
+    color: white;
+    cursor: pointer;
+    position: relative;
+    left:660px;
+    height: 50px;
+    width: 200px;
+    border-radius: 5px;
+    font-size: 20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
