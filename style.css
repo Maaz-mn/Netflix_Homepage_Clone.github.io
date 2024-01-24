@@ -16,6 +16,7 @@ body{
     background-repeat: no-repeat;
     background-size: cover;
     margin-bottom: 50px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif
     }
 .logo{
     height: 50px;
@@ -77,6 +78,8 @@ h1{
     bottom: 4px;
     padding-left: 30px;
     background-color: transparent;
+    color: white;
+    font-size: 20px;
 }
 .box2{
     height: 400px;
