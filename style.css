@@ -166,3 +166,92 @@ h1{
     right: 150px;
     margin-top: 20px;
 }
+@media screen and (min-width:448px) and (max-width:650px){
+    .box1{
+        height: 5vh;
+        padding: 25px;
+    }
+   
+
+    .sign_out{
+        padding: 7px 18px;
+        font-size: 10px;
+    }
+
+    .logo{
+        width: 100px;
+    }
+
+    h1{
+        font-size: 30px;
+        font-weight: 800;
+        text-align:center;
+    }
+    .p1{
+        font-size: 20px;
+        font-weight: 400;
+        margin-top: 5%;
+        text-align:center;
+    }
+    
+    .p2{
+        font-size: 16px;
+        font-weight: 400;
+        margin-top: 5%;
+        text-align:center;
+    }
+    .p3{
+        font-size: 16px;
+        font-weight: 400;
+        margin-top: 5%;
+        text-align:center;
+    }
+    .p4{
+        font-size: 16px;
+        font-weight: 400;
+        margin-top: 5%;
+        text-align:center;
+    }
+    .p5{
+        font-size: 16px;
+        font-weight: 400;
+        margin-top: 5%;
+        text-align:center;
+    }
+    .p6{
+        font-size: 16px;
+        font-weight: 400;
+        margin-top: 5%;
+        text-align:center;
+    }
+    .p7{
+        font-size: 16px;
+        font-weight: 400;
+        margin-top: 5%;
+        text-align:center;
+    }
+    .p8{
+        font-size: 16px;
+        font-weight: 400;
+        margin-top: 5%;
+        text-align:center;
+    }
+    .searchbar{
+       height: 10px;
+       width: 100px;
+       position: absolute;
+       left: 10% ;
+        padding: 10px 6px;
+    }
+
+    .sign_up{
+        display: block;
+        position: relative;
+        left: 25%;
+        margin-top: 5px;
+        padding: 3px 2px;
+        width: 85%;
+        top: 5%;
+        font-size: 15px;
+    }
+}
