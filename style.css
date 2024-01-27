@@ -86,7 +86,7 @@ h1{
     width: 100%;
     background-color: black;
     position: relative;
-    bottom: 30px;
+    bottom: 35px;
 }
 .p3{
     color: white;
@@ -94,7 +94,7 @@ h1{
     font-size: 50px;
     position: relative;
     top: 35%;
-    padding-left: 70px;
+    padding-left: 90px;
     font-weight: bolder;
 }
 .p4{
@@ -103,7 +103,7 @@ h1{
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     position: relative;
     top: 38%;
-    padding-left: 70px;
+    padding-left: 90px;
 }
 /* .video1{
     position: relative;
@@ -122,5 +122,47 @@ h1{
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     position: relative;
     top: 40%;
-    padding-left: 70px;
+    padding-left: 90px;
+}
+.box3{
+    height: 600px;
+    width: 100%;
+    background-color: black;
+    position: relative;
+    bottom: 20px;
+}
+.img2{
+    height: 400px;
+    padding-left: 300px;
+    padding-top: 100px;
+}
+.p6{
+    color: white;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 50px;
+    font-weight: bolder;
+    text-align: right;
+    position: relative;
+    right: 230px;
+    bottom: 300px;
+}
+.p7{
+    color: white;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 50px;
+    font-weight: bolder;
+    text-align: right;
+    position: relative;
+    right: 400px;
+    bottom: 300px;
+}
+.p8{
+    color: white;
+    font-size: 20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: right;
+    position: relative;
+    bottom: 300px;
+    right: 150px;
+    margin-top: 20px;
 }
