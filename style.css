@@ -3,13 +3,13 @@
     padding: auto;
 }
 body{
-    background-color: rgb(73, 73, 73);
+    background-color: rgb(45, 44, 44);
     /* background-image: url(https://miro.medium.com/v2/resize:fit:828/format:webp/1*5lyavS59mazOFnb55Z6znQ.png); */
     background-repeat: no-repeat;
     background-size: cover;
     }
     .box1{
-    height:650px;
+    height:750px;
     width: 100%;
     /* background-color: black; */
     background-image: linear-gradient(to top,rgba(0, 0, 0, 0.567),rgba(0, 0, 0, 0.824)),url('./1_5lyavS59mazOFnb55Z6znQ.png');
@@ -41,7 +41,7 @@ body{
     font-size: 25px;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     text-align: center;
-    margin-top: 80px;
+    margin-top: 200px;
 }
 h1{
     color: white;
@@ -82,10 +82,45 @@ h1{
     font-size: 20px;
 }
 .box2{
-    height: 400px;
+    height: 700px;
     width: 100%;
     background-color: black;
+    position: relative;
+    bottom: 30px;
 }
 .p3{
     color: white;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 50px;
+    position: relative;
+    top: 35%;
+    padding-left: 70px;
+    font-weight: bolder;
+}
+.p4{
+    color: white;
+    font-size: 25px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    position: relative;
+    top: 38%;
+    padding-left: 70px;
+}
+/* .video1{
+    position: relative;
+    left: 60%;
+} */
+.img1{
+    position: relative;
+    left: 50%;
+    height: 450px;
+    top: 5%;
+    cursor: pointer;
+}
+.p5{
+    color: white;
+    font-size: 25px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    position: relative;
+    top: 40%;
+    padding-left: 70px;
 }
